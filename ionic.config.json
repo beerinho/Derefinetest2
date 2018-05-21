@@ -1,0 +1,8 @@
+{
+  "name": "DerefineTest",
+  "app_id": "60b063f5",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
